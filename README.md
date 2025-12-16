@@ -24,7 +24,7 @@ This launches a basic terminal interface that allows users to enter and expand p
 
 ## Numeric Model
 
-- **All coefficients are `BigInteger`s**.
+- **All coefficients and exponents are `BigInteger`s**.
 - Decimal (floating-point) numbers are not supported.
 - Rational numbers are currently being experimented with, but their implementation is **experimental**, not thoroughly tested, and **unused** by the AKS algorithm.
 
